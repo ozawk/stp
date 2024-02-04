@@ -1,0 +1,13 @@
+name = "stp"
+main = "build/worker/shim.mjs"
+compatibility_date = "2023-06-28"
+
+[build]
+command = "cargo install -q worker-build && worker-build --release"
+r2_buckets = [
+  { binding = "storage", bucket_name = "stp", preview_bucket_name = "" }
+]
+d1_databases = [
+  { binding = "db", database_name = "stp", database_id = "d0288a66-0bb2-4c35-8183-a7dea638d948" }
+]
+^
