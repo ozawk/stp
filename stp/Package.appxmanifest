@@ -9,15 +9,15 @@
 
   <Identity
     Name="c0297173-e046-461c-b5c9-4fcaa034818a"
-    Publisher="CN=zawaK"
+    Publisher="CN=OzawaKodai"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="c0297173-e046-461c-b5c9-4fcaa034818a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>stp</DisplayName>
-    <PublisherDisplayName>zawaK</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <PublisherDisplayName>Ozawakodai</PublisherDisplayName>
+    <Logo>Assets\Logos\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
@@ -37,10 +37,10 @@
         DisplayName="stp"
         Description="stp"
         BackgroundColor="transparent"
-        Square150x150Logo="Assets\Square150x150Logo.png"
-        Square44x44Logo="Assets\Square44x44Logo.png">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" />
-        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        Square150x150Logo="Assets\Logos\Square150x150Logo.png"
+        Square44x44Logo="Assets\Logos\Square44x44Logo.png">
+        <uap:DefaultTile Wide310x150Logo="Assets\Logos\Wide310x150Logo.png" />
+        <uap:SplashScreen Image="Assets\Logos\SplashScreen.png" />
       </uap:VisualElements>
     </Application>
   </Applications>

@@ -44,6 +44,18 @@
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
           "dependencies": {
+            "AWSSDK.CognitoIdentity": {
+              "target": "Package",
+              "version": "[3.7.300.41, )"
+            },
+            "AWSSDK.CognitoIdentityProvider": {
+              "target": "Package",
+              "version": "[3.7.301.20, )"
+            },
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.302.1, )"
+            },
             "Microsoft.Windows.SDK.BuildTools": {
               "target": "Package",
               "version": "[10.0.22621.755, )"
@@ -51,6 +63,10 @@
             "Microsoft.WindowsAppSDK": {
               "target": "Package",
               "version": "[1.4.230913002, )"
+            },
+            "System.Xml.XDocument": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

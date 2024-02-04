@@ -19,5 +19,9 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_WindowsAppSDK Condition=" '$(PkgMicrosoft_WindowsAppSDK)' == '' ">C:\Users\zawaK\.nuget\packages\microsoft.windowsappsdk\1.4.230913002</PkgMicrosoft_WindowsAppSDK>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\zawaK\.nuget\packages\awssdk.core\3.7.302.1</PkgAWSSDK_Core>
+    <PkgAWSSDK_SecurityToken Condition=" '$(PkgAWSSDK_SecurityToken)' == '' ">C:\Users\zawaK\.nuget\packages\awssdk.securitytoken\3.7.300.42</PkgAWSSDK_SecurityToken>
+    <PkgAWSSDK_CognitoIdentityProvider Condition=" '$(PkgAWSSDK_CognitoIdentityProvider)' == '' ">C:\Users\zawaK\.nuget\packages\awssdk.cognitoidentityprovider\3.7.301.20</PkgAWSSDK_CognitoIdentityProvider>
+    <PkgAWSSDK_CognitoIdentity Condition=" '$(PkgAWSSDK_CognitoIdentity)' == '' ">C:\Users\zawaK\.nuget\packages\awssdk.cognitoidentity\3.7.300.41</PkgAWSSDK_CognitoIdentity>
   </PropertyGroup>
 </Project>

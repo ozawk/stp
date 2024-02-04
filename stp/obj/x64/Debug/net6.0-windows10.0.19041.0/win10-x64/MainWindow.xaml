@@ -8,33 +8,8 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-        <Button x:ConnectionId='2' x:Name="myButton"                       >Click Me</Button>
-        <TextBlock x:ConnectionId='3' x:Name="test" Text="Hello World" FontSize="24" />
-        <DropDownButton AutomationProperties.Name="Email">
-            <DropDownButton.Content>
-                <FontIcon Glyph="&#xE715;"/>
-            </DropDownButton.Content>
-            <DropDownButton.Flyout>
-                <MenuFlyout Placement="Bottom">
-                    <MenuFlyoutItem Text="Send">
-                        <MenuFlyoutItem.Icon>
-                            <FontIcon Glyph="&#xE725;"/>
-                        </MenuFlyoutItem.Icon>
-                    </MenuFlyoutItem>
-                    <MenuFlyoutItem Text="Reply">
-                        <MenuFlyoutItem.Icon>
-                            <FontIcon Glyph="&#xE8CA;"/>
-                        </MenuFlyoutItem.Icon>
-                    </MenuFlyoutItem>
-                    <MenuFlyoutItem Text="Reply All">
-                        <MenuFlyoutItem.Icon>
-                            <FontIcon Glyph="&#xE8C2;"/>
-                        </MenuFlyoutItem.Icon>
-                    </MenuFlyoutItem>
-                </MenuFlyout>
-            </DropDownButton.Flyout>
-        </DropDownButton>
+	<StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock x:ConnectionId='2' Name="test" Text="oooo" FontSize="30" Foreground="Red" />
     </StackPanel>
 </Window>
 
