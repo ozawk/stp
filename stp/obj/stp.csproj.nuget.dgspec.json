@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zawaK\\Source\\Repos\\ozawk\\stp\\stp\\stp.csproj": {}
+    "C:\\Users\\zawaK\\source\\repos\\ozawk\\stp\\stp\\stp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zawaK\\Source\\Repos\\ozawk\\stp\\stp\\stp.csproj": {
+    "C:\\Users\\zawaK\\source\\repos\\ozawk\\stp\\stp\\stp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zawaK\\Source\\Repos\\ozawk\\stp\\stp\\stp.csproj",
+        "projectUniqueName": "C:\\Users\\zawaK\\source\\repos\\ozawk\\stp\\stp\\stp.csproj",
         "projectName": "stp",
-        "projectPath": "C:\\Users\\zawaK\\Source\\Repos\\ozawk\\stp\\stp\\stp.csproj",
+        "projectPath": "C:\\Users\\zawaK\\source\\repos\\ozawk\\stp\\stp\\stp.csproj",
         "packagesPath": "C:\\Users\\zawaK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zawaK\\Source\\Repos\\ozawk\\stp\\stp\\obj\\",
+        "outputPath": "C:\\Users\\zawaK\\source\\repos\\ozawk\\stp\\stp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

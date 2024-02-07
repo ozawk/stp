@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XmiS4HPK+DG1woZxvYGqN4eBUfOuezLgRwfF8hWWLtLdrCKDGtS0RYwv0xwVndc/TKaX1RjZ0dCfbF2aYtw/yg==",
+  "dgSpecHash": "oTY6YIMlRfvVWVlVUZme9cNJsQ8X9R9JVRayon6emReSulagBeYVzBV9pG9txRY8aLd3H+aS+6jVM/l3jCTGhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zawaK\\Source\\Repos\\ozawk\\stp\\stp\\stp.csproj",
+  "projectFilePath": "C:\\Users\\zawaK\\source\\repos\\ozawk\\stp\\stp\\stp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zawaK\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\zawaK\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",
